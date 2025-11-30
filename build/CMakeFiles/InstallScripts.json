@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/soma/code/trae/11-30-4/04/build/cmake_install.cmake",
+		"/Users/soma/code/trae/11-30-4/04/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

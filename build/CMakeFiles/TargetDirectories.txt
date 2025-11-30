@@ -1,0 +1,7 @@
+/Users/soma/code/trae/11-30-4/04/build/CMakeFiles/inventory_order_management.dir
+/Users/soma/code/trae/11-30-4/04/build/CMakeFiles/test.dir
+/Users/soma/code/trae/11-30-4/04/build/CMakeFiles/edit_cache.dir
+/Users/soma/code/trae/11-30-4/04/build/CMakeFiles/rebuild_cache.dir
+/Users/soma/code/trae/11-30-4/04/build/tests/CMakeFiles/test.dir
+/Users/soma/code/trae/11-30-4/04/build/tests/CMakeFiles/edit_cache.dir
+/Users/soma/code/trae/11-30-4/04/build/tests/CMakeFiles/rebuild_cache.dir
