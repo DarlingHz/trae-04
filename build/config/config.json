@@ -1,0 +1,5 @@
+{
+  "http_port": 8080,
+  "db_path": "./shortlink.db",
+  "cache_size": 1000
+}
