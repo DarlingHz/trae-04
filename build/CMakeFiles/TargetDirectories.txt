@@ -1,0 +1,9 @@
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/team_task_manager.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/tests.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/test.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/edit_cache.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/rebuild_cache.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/list_install_components.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/install.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/install/local.dir
+/Users/soma/code/trae/11-30-2/04/build/CMakeFiles/install/strip.dir

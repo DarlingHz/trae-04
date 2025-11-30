@@ -1,0 +1,11 @@
+// 版本信息文件（由CMake生成）
+
+#ifndef VERSION_H
+#define VERSION_H
+
+#define PROJECT_VERSION_MAJOR @TaskManagerBackend_VERSION_MAJOR@
+#define PROJECT_VERSION_MINOR @TaskManagerBackend_VERSION_MINOR@
+#define PROJECT_VERSION_PATCH @TaskManagerBackend_VERSION_PATCH@
+#define PROJECT_VERSION_STRING "@TaskManagerBackend_VERSION_MAJOR@.@TaskManagerBackend_VERSION_MINOR@.@TaskManagerBackend_VERSION_PATCH@"
+
+#endif // VERSION_H
