@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/online_judge_backend.dir/src/auth/auth_service.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/auth/auth_service.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/auth/jwt.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/auth/jwt.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/common/config.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/common/config.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/common/error.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/common/error.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/common/json.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/common/json.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/common/logger.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/common/logger.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/base_controller.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/base_controller.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/problem_controller.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/problem_controller.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/record_controller.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/record_controller.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/user_controller.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/controllers/user_controller.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/main.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/main.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/models/db_connection_impl.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/models/db_connection_impl.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/models/db_pool.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/models/db_pool.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/models/problem.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/models/problem.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/models/record.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/models/record.cpp.o.d"
+  "CMakeFiles/online_judge_backend.dir/src/models/user.cpp.o"
+  "CMakeFiles/online_judge_backend.dir/src/models/user.cpp.o.d"
+  "online_judge_backend"
+  "online_judge_backend.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/online_judge_backend.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
