@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/accounting_server.dir/src/controllers/AccountController.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/controllers/AccountController.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/controllers/BudgetController.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/controllers/BudgetController.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/controllers/CategoryController.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/controllers/CategoryController.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/controllers/SummaryController.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/controllers/SummaryController.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/controllers/TransactionController.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/controllers/TransactionController.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/dao/AccountDAO.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/dao/AccountDAO.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/dao/BudgetDAO.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/dao/BudgetDAO.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/dao/CategoryDAO.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/dao/CategoryDAO.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/dao/Database.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/dao/Database.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/dao/TransactionDAO.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/dao/TransactionDAO.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/main.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/main.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/services/AccountService.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/services/AccountService.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/services/BudgetService.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/services/BudgetService.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/services/CategoryService.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/services/CategoryService.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/services/SummaryService.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/services/SummaryService.cpp.o.d"
+  "CMakeFiles/accounting_server.dir/src/services/TransactionService.cpp.o"
+  "CMakeFiles/accounting_server.dir/src/services/TransactionService.cpp.o.d"
+  "accounting_server"
+  "accounting_server.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/accounting_server.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
