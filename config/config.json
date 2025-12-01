@@ -1,0 +1,18 @@
+{
+  "http": {
+    "port": 8080,
+    "thread_pool_size": 10
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "/Users/soma/code/trae/12-01-04/04/db/watch_server.db"
+  },
+  "cache": {
+    "capacity": 100,
+    "ttl_seconds": 300
+  },
+  "logging": {
+    "level": "info",
+    "file_path": "/Users/soma/code/trae/12-01-04/04/logs/server.log"
+  }
+}
