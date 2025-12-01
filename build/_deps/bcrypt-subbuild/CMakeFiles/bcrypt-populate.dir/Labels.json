@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/CMakeFiles/bcrypt-populate"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/CMakeFiles/bcrypt-populate.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/CMakeFiles/bcrypt-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-build.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-download.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-install.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-test.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/bcrypt-subbuild/bcrypt-populate-prefix/src/bcrypt-populate-stamp/bcrypt-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bcrypt-populate"
+		],
+		"name" : "bcrypt-populate"
+	}
+}
