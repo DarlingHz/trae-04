@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ride_sharing_backend.dir/src/main.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/main.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Driver.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Driver.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/RideRequest.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/RideRequest.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Rider.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Rider.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Trip.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/model/Trip.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/DriverRepository.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/DriverRepository.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/RideRequestRepository.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/RideRequestRepository.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/RiderRepository.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/RiderRepository.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/TripRepository.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/repository/TripRepository.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/DriverService.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/DriverService.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/MatchingService.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/MatchingService.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/RideRequestService.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/RideRequestService.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/RiderService.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/RiderService.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/TripService.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/service/TripService.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Config.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Config.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Database.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Database.cpp.o.d"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Logger.cpp.o"
+  "CMakeFiles/ride_sharing_backend.dir/src/utils/Logger.cpp.o.d"
+  "ride_sharing_backend"
+  "ride_sharing_backend.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ride_sharing_backend.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
