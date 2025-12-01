@@ -1,0 +1,7 @@
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/ride_sharing_backend.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/edit_cache.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/rebuild_cache.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/list_install_components.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/install.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/install/local.dir
+/Users/soma/code/trae/12-01-06/04/build/CMakeFiles/install/strip.dir
