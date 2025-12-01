@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/api-quota-server.dir/src/App.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/App.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/config/Config.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/config/Config.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpRequest.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpRequest.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpResponse.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpResponse.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpServer.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/http/HttpServer.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/main.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/main.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/service/ApiKeyService.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/service/ApiKeyService.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/service/ClientService.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/service/ClientService.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/service/QuotaService.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/service/QuotaService.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/service/StatsService.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/service/StatsService.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/storage/ApiKeyRepository.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/storage/ApiKeyRepository.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/storage/CallLogRepository.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/storage/CallLogRepository.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/storage/ClientRepository.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/storage/ClientRepository.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/storage/Database.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/storage/Database.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/utils/Logger.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/utils/Logger.cpp.o.d"
+  "CMakeFiles/api-quota-server.dir/src/utils/Utils.cpp.o"
+  "CMakeFiles/api-quota-server.dir/src/utils/Utils.cpp.o.d"
+  "api-quota-server"
+  "api-quota-server.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/api-quota-server.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

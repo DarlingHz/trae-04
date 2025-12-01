@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "database_path": "./api_quota.db",
+  "thread_pool_size": 10,
+  "default_daily_quota": 10000,
+  "default_per_minute_quota": 200
+}
