@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-download.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test.rule"
+		},
+		{
+			"file" : "/Users/soma/code/trae/12-01-01/04/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"httplib-populate"
+		],
+		"name" : "httplib-populate"
+	}
+}
