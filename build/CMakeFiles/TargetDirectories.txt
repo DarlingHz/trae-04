@@ -1,7 +1,0 @@
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/watch_server.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/edit_cache.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/rebuild_cache.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/list_install_components.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/install.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/install/local.dir
-/Users/soma/code/trae/12-01-04/04/build/CMakeFiles/install/strip.dir
